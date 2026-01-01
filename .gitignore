@@ -1,0 +1,15 @@
+
+
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.100.0/darwin_amd64/terraform-provider-azurerm_v3.100.0_x5############################################
+# Terraform
+############################################
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
